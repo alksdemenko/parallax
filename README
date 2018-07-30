@@ -1,4 +1,7 @@
-# H1 usage
+# usage
+```javascript
+    var b = 0;
+```
 
     new Parallax({
         elementsOffset : 150,
