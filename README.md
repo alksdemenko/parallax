@@ -1,7 +1,4 @@
 # usage
-```javascript
-    var b = 0;
-```
 
     new Parallax({
         elementsOffset : 150,
@@ -22,5 +19,4 @@
             <div data-speed="6" class="percent-block">
                 ...content
             </div>
-
         </div>
