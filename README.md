@@ -1,6 +1,8 @@
 # Parallax
 
-###Usage
+### Usage
+```javascript
+```
 
     ```javascript
     new Parallax({
