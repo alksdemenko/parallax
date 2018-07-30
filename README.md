@@ -2,23 +2,15 @@
 
 ### Usage
 ```javascript
-    var b = 0;
-
-    function test(){
-
-    }
+   new Parallax({
+          elementsOffset : 150,
+          screenDivider: 2.5,
+          parallaxSection : '.parallax',
+          elementsToMove : '.percent-block',
+   });
 ```
 
-    ```javascript
-    new Parallax({
-        elementsOffset : 150,
-        screenDivider: 2.5,
-        parallaxSection : '.parallax',
-        elementsToMove : '.percent-block',
-    });
-    ```
-
-    use attribute "data-speed" to control parallax speed. Example:
+### Use attribute "data-speed" to control parallax speed. HTML structure example:
 
         <div class="parallax">
             <div data-speed="4" class="percent-block">
