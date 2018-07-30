@@ -1,11 +1,15 @@
-# usage
+# Parallax
 
+###Usage
+
+    ```javascript
     new Parallax({
         elementsOffset : 150,
         screenDivider: 2.5,
         parallaxSection : '.parallax',
         elementsToMove : '.percent-block',
     });
+    ```
 
     use attribute "data-speed" to control parallax speed. Example:
 
