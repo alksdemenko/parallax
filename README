@@ -1,4 +1,4 @@
-# H1 usage
+#H1 usage
 
     new Parallax({
         elementsOffset : 150,
