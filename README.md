@@ -2,6 +2,11 @@
 
 ### Usage
 ```javascript
+    var b = 0;
+
+    function test(){
+
+    }
 ```
 
     ```javascript
