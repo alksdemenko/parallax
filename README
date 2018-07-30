@@ -1,0 +1,7 @@
+usage
+    new Parallax({
+        elementsOffset : 150,
+        screenDivider: 2.5,
+        parallaxSection : '.parallax',
+        elementsToMove : '.percent-block',
+    });
